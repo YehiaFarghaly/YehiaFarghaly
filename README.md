@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehiafarghaly&label=Profile%20views&color=0e75b6&style=flat" alt="yehiafarghaly" /> </p>
 
-- 🌱 I’m currently learning **Android development and business intelligence**
+- 🌱 I’m currently learning **Native android development , Flutter and Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YehiaFarghaly?tab=repositories](https://github.com/YehiaFarghaly?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github Repos](https://github.com/YehiaFarghaly?tab=repositories)
 
 - 📫 How to reach me **yehia71691@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yehia-mohamed-669895230/](https://www.linkedin.com/in/yehia-mohamed-669895230/)
+- 📄 Know about my experiences [Linkedin Profile](https://www.linkedin.com/in/yehia-mohamed-669895230/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
