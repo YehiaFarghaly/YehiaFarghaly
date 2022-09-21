@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Github Repos](https://github.com/YehiaFarghaly?tab=repositories)
 
-- 📫 How to reach me **yehia71691@gmail.com** or check my website [Yehia Mohamed](https://yehiafarghaly.github.io/YehiaMohamed/Me/index.html)
+- 📫 How to reach me **yehia71691@gmail.com** or check my portfolio [Yehia Mohamed](https://yehiafarghaly.github.io/YehiaMohamed/Me/index.html)
 
 - 📄 Know about my experiences [Linkedin Profile](https://www.linkedin.com/in/yehia-mohamed-669895230/)
 
