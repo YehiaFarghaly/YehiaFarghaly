@@ -3,7 +3,7 @@
 </div>  
   
 
-## I'm Yehia, a mobile developer 👨‍💻 Computer Engineering student since 2020 🚀👨‍🎓  
+## I'm Yehia, a mobile developer 👨‍💻 and a Computer Engineering student since 2020 🚀👨‍🎓  
   
 
 - 🔭 I’m currently working on [Location Reminder app](https://github.com/YehiaFarghaly/Location_Reminder)  
