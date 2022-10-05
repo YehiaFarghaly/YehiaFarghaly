@@ -1,7 +1,9 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
-  <br/>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+</div>  
+  
 
-## <div align="center">I'm Yehia, a mobile developer 👨‍💻 Computer Engineering student since 2020 🚀👨‍🎓</div>  
+## I'm Yehia, a mobile developer 👨‍💻 Computer Engineering student since 2020 🚀👨‍🎓  
   
 
 - 🔭 I’m currently working on [Location Reminder app](https://github.com/YehiaFarghaly/Location_Reminder)  
