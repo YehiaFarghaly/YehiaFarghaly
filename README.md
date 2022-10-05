@@ -1,5 +1,5 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
-  
+  <br/>
 
 ## <div align="center">I'm Yehia, a mobile developer 👨‍💻 Computer Engineering student since 2020 🚀👨‍🎓</div>  
   
