@@ -6,7 +6,7 @@
 ## I'm Yehia, a mobile developer 👨‍💻 and a Computer Engineering student since 2020 🚀👨‍🎓  
   
 
-- 🔭 I’m currently working on [Location Reminder app](https://github.com/YehiaFarghaly/Location_Reminder)  
+- 🔭 I’m currently working on [The News App](https://github.com/YehiaFarghaly/MVVMNewsApp)  
   
 
 - 🌱 I’m currently learning cross platform mobile development using Flutter  
