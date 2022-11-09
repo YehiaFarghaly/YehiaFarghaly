@@ -6,10 +6,10 @@
 ## I'm Yehia, a mobile developer 👨‍💻 and a Computer Engineering student since 2020 🚀👨‍🎓  
   
 
-- 🔭 I’m currently working on [The News App](https://github.com/YehiaFarghaly/MVVMNewsApp)  
+- 🔭 I’m currently working on [Flutter TODO list](https://github.com/YehiaFarghaly/Flutter-Todo-List)  
   
 
-- 🌱 I’m currently learning cross platform mobile development using Flutter  
+- 🌱 I’m currently learning cross platform mobile development using Flutter and Backend Development Using NodeJs, ExpressJs and MongoDB
   
 
 - ❓ Ask me about anything related to Android development and Java language  
