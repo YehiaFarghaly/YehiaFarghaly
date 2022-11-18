@@ -88,7 +88,7 @@
 
 
 <br/> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehiafarghaly&show_icons=true&locale=en&layout=compact" alt="yehiafarghaly" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehiafarghaly&show_icons=true&locale=en&layout=compact" alt="yehiafarghaly" /></p>
 
 <br/>
 
