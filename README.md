@@ -86,7 +86,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YehiaFarghaly&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+
+<br/> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehiafarghaly&show_icons=true&locale=en&layout=compact" alt="yehiafarghaly" /></p>
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=YehiaFarghaly&&style=flat-square" align="center" />
