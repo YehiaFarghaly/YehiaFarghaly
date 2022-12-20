@@ -97,4 +97,3 @@
 </div>  
 
 <br />
-![result](https://user-images.githubusercontent.com/102627389/208695745-3ff27fb8-7105-49be-9895-991632eb5014.gif)
