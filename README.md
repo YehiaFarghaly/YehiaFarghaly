@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=3000&color=FF0564&center=true&vCenter=true&multiline=true&width=1024&height=120&lines=Hi+I am+Yehia+Farghaly+%F0%9F%91%8B;%F0%9F%94%A5+A+Computer+Engineering+%40+Student+%F0%9F%94%A5)](https://git.io/typing-svg)
 </div>  
     
 
