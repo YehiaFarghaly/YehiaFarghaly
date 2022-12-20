@@ -3,7 +3,7 @@
 ## I'm Yehia, a mobile developer 👨‍💻 and a Computer Engineering student since 2020 🚀👨‍🎓  
   
 
-- 🔭 I’m currently working on [Flutter News App](https://github.com/YehiaFarghaly/flutter_news_app)  
+- 🔭 I’m currently working on [Flutter Shop App](https://github.com/YehiaFarghaly/shop_app)  
   
 
 - 🌱 I’m currently learning cross platform mobile development using Flutter and Backend Development Using NodeJs, ExpressJs and MongoDB
