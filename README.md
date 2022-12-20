@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
-    ![result](https://user-images.githubusercontent.com/102627389/208695448-9edc744e-6724-4679-ab4b-8dc0ba30c7be.gif)
+    
 
 ## I'm Yehia, a mobile developer 👨‍💻 and a Computer Engineering student since 2020 🚀👨‍🎓  
   
@@ -97,3 +97,4 @@
 </div>  
 
 <br />
+![result](https://user-images.githubusercontent.com/102627389/208695745-3ff27fb8-7105-49be-9895-991632eb5014.gif)
