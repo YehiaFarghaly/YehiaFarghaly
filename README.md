@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hello+I+am+Yehia+Farghaly.+A+Computer+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=B0C4F7&background=000000E5&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello+I+am+Yehia+Farghaly;A+Computer+Engineering+Student)](https://git.io/typing-svg)
 
 ## I'm Yehia, a mobile developer 👨‍💻 and a Computer Engineering student since 2020 🚀👨‍🎓  
   
