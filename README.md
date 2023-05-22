@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=F4DEF7&background=48040CE5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+I+am+Yehia+Farghaly;A+Computer+Engineering+Student)](https://git.io/typing-svg)
-
-## I'm Yehia, a mobile developer 👨‍💻 and a Computer Engineering student since 2020 🚀👨‍🎓  
-  
+   
 
 - 🔭 I’m currently working on [Flutter Shop App](https://github.com/YehiaFarghaly/shop_app)  
   
@@ -9,10 +7,7 @@
 - 🌱 I’m currently learning cross platform mobile development using Flutter and Backend Development Using NodeJs, ExpressJs and MongoDB
   
 
-- ❓ Ask me about anything related to Android development and Java language  
-  
-
-*  📧 You can mail me @: yehia71691@gmail.com or check my portfolio [here](https://yehiafarghaly.github.io/YehiaMohamed/Me/index.html)  
+*  📧 You can mail me @: yehia71691@gmail.com
   
 
 
